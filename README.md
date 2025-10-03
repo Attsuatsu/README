@@ -14,7 +14,7 @@
 -	[LinkedIn](https://www.linkedin.com/in/朝陽-鈴木-2204b6388-2204b6388)
 
 ## 🛠️ Skills
-⦁	Languages: Python, R
-⦁	Tools: Tableau
+-	Languages: Python, R
+-	Tools: Tableau
 
 ## 📂 Featured Projects
