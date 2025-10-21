@@ -14,7 +14,13 @@
 -	[LinkedIn](https://www.linkedin.com/in/朝陽-鈴木-2204b6388-2204b6388)
 
 ## 🛠️ Skills
--	Languages: Python, R
--	Tools: Tableau
+- Python（Pandas, scikit-learn, Matplotlib）
+- R（統計解析、クラスタリング、時系列分析）
+- SQL（データ抽出・集計）
+- Git, GitHub（バージョン管理）
+
+## 📘 Learning
+- Kaggle Competitions (Tabular系)
+- 統計検定準1級の勉強中
 
 ## 📂 Featured Projects
