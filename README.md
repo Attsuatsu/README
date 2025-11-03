@@ -12,6 +12,7 @@
 -	[Kaggle](https://www.kaggle.com/attsuatsu)
 -	[Qiita](https://qiita.com/Attsuatsu)
 -	[LinkedIn](https://www.linkedin.com/in/朝陽-鈴木-2204b6388-2204b6388)
+-	[AtCorder](https://atcoder.jp/users/attsuattsu)
 
 ## 🛠️ Skills
 - Python（Pandas, scikit-learn, Matplotlib）
@@ -22,5 +23,7 @@
 ## 📘 Learning
 - Kaggle Competitions (Tabular系)
 - 統計検定準1級の勉強中
+- AtCorderにてAtCoder Beginner Contestに継続参加中
 
 ## 📂 Featured Projects
+- [🎯行動経済学×データサイエンス：感情を読み解くデータ活用のすすめ【シリーズ第0回｜“意思決定を科学する”プロジェクト】](https://qiita.com/Attsuatsu/items/6eed0bacca176dd9392d)
